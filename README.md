@@ -1,2 +1,3 @@
-# fast-api-service-islh
+# Fast Api Service Islh
+
 A repository to test GitHub automation for issue management.
